@@ -5,7 +5,7 @@ var tableContent = document.getElementById("tableContent");
 var deleteBtns;
 var visitBtns;
 var closeBtn = document.getElementById("closeBtn");
-var boxModal = document.querySelector(".box-info");
+var boxModal = document.querySelector(".box-container");
 var bookmarks = [];
 
 
